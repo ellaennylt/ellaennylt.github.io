@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "id": "",
+      "name": "student-management-system",
+      "createdAt": "2024-04-27T04:18:19Z",
+      "url": "https://github.com/ellaennylt/student-management-system",
+      "description": "Student Management System for a university.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "food-preference-survey-2019-eda",
+      "createdAt": "2024-04-27T20:41:33Z",
+      "url": "https://github.com/ellaennylt/food-preference-survey-2019-eda",
+      "description": "Exploratory data analysis of Food Preference Survey 2019.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "R",
+          "iconifyClass": "logos:r-lang"
+        }
+      ]
+    }
+  ]
+}
+
+
