@@ -177,9 +177,68 @@ const publications = {
       id: "fuzzy-logic-approach-to-predicting-rainfall-patterns",
       name: "Fuzzy Logic Approach to Predicting Rainfall Patterns",
       createdAt: "2024-05-01T00:00:00Z",
-      description: "Paper published in IEEE Xplore",
+      description: "Paper published in IEEE Xplore.",
       url: "",
     },
+  ],
+};
+
+const campaignsHeader = {
+  title: "Campaigns & Other Initiatives",
+  description: "Marketing campaigns that I have spearheaded and/or participated in.",
+  avatar_image_path: "projects_image.svg",
+};
+
+const campaigns = {
+  data: [
+    {
+      id: "whole-year-campaign",
+      name: "Spread Joy, Spread Love",
+      description: "A full year campaign that aimed to encourage dairy consumption.",
+      url: "https://dreamwithanchor.com/",
+    },
+    {
+      id: "cny-campaign",
+      name: "New Year, Niu You",
+      description: "Chinese New Year camapaign that targeted the masses.",
+      url: "https://fb.watch/rL1icTGTKP/",
+    },
+    {
+      id: "raya-campaign",
+      name: "Jom Raya",
+      description: "Raya camapaign that targeted the masses.",
+      url: "https://fb.watch/rL1mqdQe_S/",
+    },
+    {
+      id: "social-media",
+      name: "Social Media Marketing",
+      description: "Managed the full year marketing calendar and content for social outlets.",
+      url: "",
+    },
+    {
+      id: "content-writing",
+      name: "Content Writing",
+      description: "Write-ups on company events.",
+      url: "https://ecoknights.org.my/?s=ellaendrea+tan",
+    },
+    {
+      id: "npd-launch",
+      name: "NPD Launch",
+      description: "New product launch for a dairy brand in Malaysia.",
+      url: "",
+    },
+    {
+      id: "perfect-store",
+      name: "Perfect Store Rollout",
+      description: "Perfect Store plan execution for key customers.",
+      url: "",
+    },
+    {
+      id: "pbs",
+      name: "Customised Marketing for Customers",
+      description: "Digital and offline marketing efforts to drive customers' products.",
+      url: "",
+    }
   ],
 };
 
@@ -192,4 +251,6 @@ export {
   projectsHeader,
   publicationsHeader,
   publications,
+  campaignsHeader,
+  campaigns,
 };
