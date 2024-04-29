@@ -161,7 +161,7 @@ const skills = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects leverage a wide range of cutting-edge technology tools, with a particular focus on pre-trained models and NLP.",
+    "From transforming text into gold with NLP-powered summarizers to weaving data-driven magic in marketing campaigns, all my projects are fueled by an insatiable hunger for growth and improvement.",
   avatar_image_path: "projects_image.svg",
 };
 
