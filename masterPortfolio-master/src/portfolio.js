@@ -200,13 +200,13 @@ const campaigns = {
     {
       id: "cny-campaign",
       name: "New Year, Niu You",
-      description: "Chinese New Year camapaign that targeted the masses.",
+      description: "Chinese New Year campaign that targeted the masses.",
       url: "https://fb.watch/rL1icTGTKP/",
     },
     {
       id: "raya-campaign",
       name: "Jom Raya",
-      description: "Raya camapaign that targeted the masses.",
+      description: "Raya campaign that targeted the masses.",
       url: "https://fb.watch/rL1mqdQe_S/",
     },
     {
