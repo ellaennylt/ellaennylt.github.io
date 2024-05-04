@@ -131,7 +131,7 @@ const skills = {
       title: "Marketing",
       fileName: "DesignImg",
       skills: [
-        "⚡ Conducting market research to understand consumer needs and analyze data to identify market trends",
+        "⚡ Conducting market research to understand consumer needs and analyse data to identify market trends",
         "⚡ Developing and executing strategic marketing plans and campaigns across various channels, such as digital, social media, and traditional media",
         "⚡ Building and managing a brand's image through effective messaging and communication strategies",
       ],
@@ -161,7 +161,7 @@ const skills = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "From transforming text into gold with NLP-powered summarizers to weaving data-driven magic in marketing campaigns, all my projects are fueled by an insatiable hunger for growth and improvement.",
+    "From transforming text into gold with NLP-powered summarisers to weaving data-driven magic in marketing campaigns, all my projects are fueled by an insatiable hunger for growth and improvement.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -176,8 +176,8 @@ const publications = {
     {
       id: "fuzzy-logic-approach-to-predicting-rainfall-patterns",
       name: "Fuzzy Logic Approach to Predicting Rainfall Patterns",
-      createdAt: "2024-05-01T00:00:00Z",
-      description: "Paper published in IEEE Xplore.",
+      createdAt: "2023-12-14T00:00:00Z",
+      description: "2023 21st IEEE SCOReD: This paper focuses on developing a rainfall prediction model for New Delhi using the Mamdani fuzzy inference system. The model achieved an accuracy of 63.29%, precision of 62.44%, recall of 66.7%, and an F1 score of 64.49%.",
       url: "",
     },
   ],
